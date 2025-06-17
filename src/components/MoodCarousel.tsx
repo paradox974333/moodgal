@@ -30,7 +30,7 @@ const moods: Mood[] = [
     name: 'Angry',
     color: 'red',
     gradient: 'from-red-500 via-orange-500 to-red-600',
-    videoUrl: 'IMG_2764_20250617_175239_8dc29587.mov',
+    videoUrl: 'IMG_2764_20250617_175239_8dc29587.mp4',
     description: 'Fierce and passionate intensity',
     emoji: '😡',
     bgPattern: 'radial-gradient(circle at 30% 30%, rgba(255, 69, 0, 0.4) 0%, transparent 50%), radial-gradient(circle at 70% 70%, rgba(220, 20, 60, 0.3) 0%, transparent 50%)'
